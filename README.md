@@ -15,7 +15,7 @@
 
 ## 第一步：Fork 示例仓库并修改名称
 
-进入到示例仓库 https://github.com/shiyanlou/trylab，Fork 一份成为自己的仓库。
+进入到示例仓库 [https://github.com/shiyanlou/trylab](https://github.com/shiyanlou/trylab)， Fork 一份成为自己的仓库。
 
 点击 Fork 后的仓库的 `Settings`，修改 `Repository name` 下的名字为你要提交的软件的名字，例如 mysoftware，然后点击 `Rename` 按钮。
 
